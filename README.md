@@ -13,7 +13,7 @@ graph TD
     B --> C[🧪 Unit Tests]
     B --> D[⏰ Schedules & Sensors]
     D --> E[🚀 Dagster+ Deployment]
-    C --> E
+    C --> E[❄️ Snowflake]
 ```
 
 - **Dagster Assets**: Defined in `dagster_mflix/assets.py`
