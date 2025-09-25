@@ -1,0 +1,6 @@
+.env
+.venv
+.tmp*
+*.egg-info
+.lock
+secrets.toml
